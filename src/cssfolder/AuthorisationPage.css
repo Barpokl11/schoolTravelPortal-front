@@ -1,0 +1,24 @@
+
+.authorisation-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    width: 15em;
+    height: 20%;
+    background-color: rgb(94, 179, 179);
+    padding: 20px;
+    
+    
+}
+input[submit] {
+    position: absolute;
+    right: 0;
+    
+}
+.registation {
+    position: sticky;
+    top: 0;
+    text-align: center;
+}

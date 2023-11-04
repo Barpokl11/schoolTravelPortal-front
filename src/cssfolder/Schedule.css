@@ -1,0 +1,10 @@
+.schedule-container {
+    background-color: burlywood;
+    margin-top: 10px;
+}
+.schedule-title {
+    text-align: center;
+}
+.schedule-description {
+    font-style: italic;
+}

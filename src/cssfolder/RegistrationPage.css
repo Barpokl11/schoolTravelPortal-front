@@ -1,0 +1,12 @@
+* {
+    
+}
+
+fieldset {
+    padding: 10px;
+    justify-items: center;
+    
+}
+fieldset div {
+    margin-top: 5px;
+}
